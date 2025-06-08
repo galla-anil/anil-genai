@@ -23,3 +23,4 @@ langchain_weaviate
 wikipedia
 youtube_search
 langgraph
+chromadb
